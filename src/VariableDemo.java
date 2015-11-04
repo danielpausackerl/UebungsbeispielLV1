@@ -4,10 +4,10 @@ public class VariableDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String Vorname = "Daniel";
-		String Nachname = "Pausackerl";
+		String firstname = "Daniel";
+		String lastname = "Pausackerl";
 
-		System.out.print("Der Name lautet: " + Vorname + " " + Nachname);
+		System.out.println("Der Name lautet: " + firstname + " " + lastname);
 
 	}
 
